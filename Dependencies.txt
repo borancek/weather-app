@@ -1,0 +1,14 @@
+With the package files included, you should only need to run 'npm install' to get things working otherwise:
+
+First you need to run npm install.
+Then uninstall current version of react-router-dom with:
+
+npm uninstall react-router-dom
+
+Then install version 5:
+
+npm install react-router-dom@5
+
+Then install react-scripts:
+
+npm install create-react-scripts

@@ -1,0 +1,489 @@
+/* General alignments  */
+.App {
+  text-align: center;
+}
+/* Setting icon */
+.settings-icon {
+  position: absolute;
+  top: 2%;
+  left: 81%;
+
+}
+.location-icon{
+  position: absolute;
+  top: 12%;
+  left: 2%;
+}
+
+.cloud-icon {
+  position: absolute;
+  top: 17%;
+  left: 2%; 
+}
+
+.location-text{
+  position: absolute;
+  color: #006400;
+  font-size: 1.5em;
+  font-weight: bolder;
+  left: 15%;
+  top: 7.5%;
+}
+
+.location-temp-text{
+  position: absolute;
+  color: #006400;
+  font-size: 50px;
+  left: 15%;
+  top: 12%; 
+  padding-right: 1em;
+}
+
+.current-weather-background{
+  position: absolute;
+  left: 5%;
+  top: 30%;
+}
+
+.current-weather-background2{
+  position: absolute;
+  left: 44%;
+  top: 30%;
+}
+
+.current-weather-background3{
+  position: absolute;
+  top: 30%;
+}
+/* Scroller to show temp each hour */
+.Hourly-Scroller{
+  color: black;
+  top: 34%;
+  left: 13%;
+  position: absolute;
+  display: flex;
+  overflow: scroll;
+  width: 17em;
+  height: 7em;
+}
+.time{
+  margin-bottom: 2em;
+  color: white;
+  font-weight: bold;
+}
+.hour{
+  color: white;
+  font-weight: bold;
+}
+
+.hourInfo{
+  margin-right: 1em;
+}
+
+.todays-forecast{
+  position: absolute;
+  color: #006400;
+  font-weight: bold;
+  top: 54%;
+  left: 9%;
+  font-size: 22px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #ffffe0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.current-weather-background4{
+  position: absolute;
+  left: 44%;
+  top: 52%;
+}
+
+.current-weather-background5{
+  position: absolute;
+  left: 5%;
+  top: 52%;
+}
+
+.current-weather-background6{
+  position: absolute;
+  left: 42%;
+  top: 52%;
+}
+
+.current-weather-background7{
+  position: absolute;
+  left: 44.1%;
+  top: 77%;
+}
+
+.current-weather-background8{
+  position: absolute;
+  left: 5%;
+  top: 55%;
+}
+
+.current-weather-background9{
+  position: absolute;
+  left: 5%;
+  top: 77%;
+}
+
+.current-weather-background10{
+  position: absolute;
+  left: 5%;
+  top: 70%;
+} 
+
+.current-weather-background11{
+  position: absolute;
+  left: 44.1%;
+  top: 70%;
+}
+.App-link {
+  position: absolute;
+  color: blue;
+  font-size: 15px;
+  top: 57.9%;
+  right: 15.5%;
+}
+
+.line1{
+  position: absolute;
+  color: white;
+  font-size: 15px;
+  left: 9%;
+  top: 54%;
+}
+
+.line2{
+  position: absolute;
+  color: white;
+  font-size: 15px;
+  top: 56%;
+  left: 9.5%;
+}
+
+.line3{
+  position: absolute;
+  color: white;
+  font-size: 16.5px;
+  top: 58%;
+  left: 8.5%;
+  text-decoration-line: line-through;
+   
+}
+
+.uv-index{
+  position: absolute;
+  color: white;
+  font-size: 14px;
+  top: 60%;
+  left: 8.5%; 
+}
+
+.uv-stat{
+  position: absolute;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  top: 62%;
+  left: 8.5%;  
+}
+
+.vis-stat{
+  position: absolute;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  top: 62%;
+  right: 16%; 
+}
+
+.visibility-text{
+  position: absolute;
+  color: white;
+  font-size: 14px;
+  top: 60%;
+  right: 23%; 
+}
+
+.line4{
+  position: absolute;
+  color: white;
+  font-size: 16.5px;
+  top: 67%;
+  left: 8.5%;
+  text-decoration-line: line-through;
+   
+}
+
+.wind-text{
+  position: absolute;
+  color: white;
+  font-size: 14px;
+  top: 69%;
+  left: 8.5%;  
+}
+
+.wind-stat{
+  position: absolute;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  top: 70.5%;
+  left: 8.5%;  
+}
+
+.humidity-text{
+  position: absolute;
+  color: white;
+  font-size: 14px;
+  top: 69%;
+  right: 23%;
+}
+
+.humidity-stat{
+  position: absolute;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  top: 70.5%;
+  right: 26%; 
+}
+
+.cof-stat{
+  position: absolute;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  top: 80%;
+  left: 8.5%;   
+}
+
+.percipitation-stat{
+  position: absolute;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  top: 80%;
+  right: 21.5%;  
+}
+
+.line5{
+  position: absolute;
+  color: white;
+  font-size: 16.5px;
+  top: 76%;
+  left: 8.5%;
+  text-decoration-line: line-through;
+   
+}
+
+.cof-text{
+  position: absolute;
+  color: white;
+  font-size: 14px;
+  top: 78%;
+  left: 8.5%;
+}
+
+.percipitation-text{
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    top: 78%;
+    right: 15%;
+  }
+
+  .line6{
+    position: absolute;
+    color: white;
+    font-size: 16.5px;
+    top: 85%;
+    left: 8.5%;
+    text-decoration-line: line-through;
+     
+  }
+
+  .cot-text{
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    top: 87%;
+    left: 8.5%;
+  }
+
+  .cot-stat{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    top: 89%;
+    left: 8.5%;  
+  }
+
+  .flood-depth-text{
+    position: absolute;
+    color: white;
+    font-size: 14px;
+    top: 87%;
+    right: 10%;
+  }
+
+.flood-depth-stat{
+  position: absolute;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  top: 89%;
+  right: 25%;  
+}
+
+  .time1{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 32.5%;
+    left: 9%;
+    font-size: 19px;
+  }
+
+  .time2{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 32.5%;
+    left: 26.5%;
+    font-size: 19px; 
+  }
+
+  .time3{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 32.5%;
+    left: 44.5%;
+    font-size: 19px;  
+  }
+
+  .time4{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 32.5%;
+    left: 62.5%;
+    font-size: 19px; 
+  }
+
+  .time5{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 32.5%;
+    left: 77.5%;
+    font-size: 19px; 
+  }
+
+  .temp1{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 44%;
+    left: 10.2%;
+    font-size: 19px;
+  }
+
+  .temp2{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 44.1%;
+    left: 29%;
+    font-size: 19px;
+  }
+
+
+  .temp3{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 44.1%;
+    left: 47.5%;
+    font-size: 19px;
+  }
+
+  .temp4{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 44.1%;
+    left: 64.5%;
+    font-size: 19px;
+  }
+
+  .temp5{
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    top: 44.1%;
+    left: 79.5%;
+    font-size: 19px;
+  }
+
+  .weather-type1{
+    position: absolute;
+    top: 39.5%;
+    left: 7%;   
+  }
+
+  .weather-type2{
+    position: absolute;
+    top: 40.5%;
+    left: 27.8%;   
+  }
+
+  .weather-type3{
+    position: absolute;
+    top: 40.5%;
+    left: 46.5%;   
+  }
+
+  .weather-type4{
+    position: absolute;
+    top: 40.5%;
+    left: 63.5%;   
+  }
+
+  .weather-type5{
+    position: absolute;
+    top: 40.5%;
+    left: 78.5%;   
+  }
+
+
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
