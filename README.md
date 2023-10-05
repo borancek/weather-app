@@ -14,7 +14,7 @@ a corresponding snow icon will be displayed alongside the name of the user's cur
 Below, you'll find a visual representation of the application in action:<br/>
 
 ![Screenshot 2023-10-05 at 19 02 29](https://github.com/borancek/weather-app/assets/77752760/0ae6ec83-1411-4ba8-8b60-c09301f17de5)
-<br/>
+
 
  **Technologies Used**: 
 - **What I Learned**: Working on this project taught me the significance of user experiences and underscored the critical importance of designing applications that are intuitively user-friendly.
