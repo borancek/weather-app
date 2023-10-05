@@ -17,6 +17,6 @@ Below, you'll find a visual representation of the application in action:<br/>
 
 
 - **Technologies Used**: React, JavaScript, and CSS
-- **What I Learned**: Working on this project taught me the significance of user experiences and underscored the critical importance of designing applications that are intuitively user-friendly.
+- **What I Learned**: Working on this project taught me the significance of user experiences and underscored the importance of designing applications that are intuitively user-friendly.
 - **Challenges**: I encountered various challenges during this project such as how to implement APIs, and though I've come a long way since then, I'm still proud of the effort I put into it.
 - **What I Can Improve**: I aspire to incorporate an additional functionality that enables users to search for weather information in various locations of their choice.
