@@ -12,7 +12,7 @@ In addition to providing accurate weather information, this application also inc
 a corresponding snow icon will be displayed alongside the name of the user's current city, enhancing the overall user experience.<br/>
 <br/>
 Below, you'll find a visual representation of the application in action:<br/>
-<br/>
+
 ![Screenshot 2023-10-05 at 19 02 29](https://github.com/borancek/weather-app/assets/77752760/0ae6ec83-1411-4ba8-8b60-c09301f17de5)
 <br/>
 
