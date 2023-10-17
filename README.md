@@ -3,7 +3,6 @@ This project was completed during my undergraduate degree (February - March 2022
 It may not adhere to the highest coding standards, but it represents a significant milestone in my journey as a developer.<br/>
 I welcome any feedback or suggestions for improvement on this project, as well as on my coding journey in general.<br/>          
 Feel free to share your insights with me as I continue to learn and grow as a developer.<br/>                                    
-<br/>
 # weather-app
 <br/>
 This project is a simple weather application designed to automatically detect the user's location and deliver real-time weather updates for their specific location through the use of the openWeather API.<br/> 
